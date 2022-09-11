@@ -1,0 +1,18 @@
+{
+  "name": "typescript_poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Criatian Rojas <cristian.rojas.d@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.3",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+  }
+}
